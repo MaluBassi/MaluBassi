@@ -1,4 +1,4 @@
-# Bom dia a todos
+### Oi gente, Bom dia, Boa tarde e Boa noite!!!!!
 Meu nome é Maria Luiza Bassi, sou estudante da Escola SESI de Osvaldo Cruz e faço curso técnico de Desenvolvimento de Sistemas no SENAI.👩‍🏫👩‍💻💻
 
  Atualmente, estou em processo de aprendizado de várias áreas importantes na área do meu curso, como PBE1, BCD, ARI, LER e PSOF, sempre buscando aprendizado para expandir meus conhecimentos e construir um currículo diverso, mesmo com muitas dificuldades durante o curso. Gerar código é muito trabalhoso e sofrido, mas me esforço muito para melhorar sempre.🛜
