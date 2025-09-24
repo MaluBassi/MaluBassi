@@ -8,5 +8,5 @@ No meu dia a dia, utilizo bastante o Visual Studio Code (VS Code) para desenvolv
 Sou uma pessoa eficiente, curiosa e dedicada, com interesse constante em aprender coisas novas. Minha trajetória é marcada por diversas atividades extracurriculares, que reforçam meu currículo de estudante, e também como futura profissional da área de tecnologia.✨
 
 
-<img src="image3.jpg">
+<img src="image2.jpg">
 
